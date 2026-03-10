@@ -1,0 +1,39 @@
+{
+  "name": "AltStore Source",
+  "apps": [
+    {
+      "name": "Gearbound Strike",
+      "bundleIdentifier": "com.gear.bound",
+      "marketplaceID": "6758010588",
+      "developerName": "D & DRIM SRL",
+      "subtitle": "Defeat Monster",
+      "localizedDescription": "Gearbound Strike is a puzzle game where you defeat monsters with your gear. Explore dangerous areas, battle powerful enemies and become the ultimate warrior.",
+      "iconURL": "https://ju-runner.github.io/alt-ys-source-apps/icons/gearbound.png",
+      "tintColor": "#75ffbf",
+      "category": "games",
+      "screenshots": [
+        "https://ju-runner.github.io/alt-ys-source-apps/screenshots/gearbound/screenshot1.png",
+        "https://ju-runner.github.io/alt-ys-source-apps/screenshots/gearbound/screenshot2.png",
+        "https://ju-runner.github.io/alt-ys-source-apps/screenshots/gearbound/screenshot3.png",
+        "https://ju-runner.github.io/alt-ys-source-apps/screenshots/gearbound/screenshot4.png"
+      ],
+      "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "2",
+          "date": "2026-03-10",
+          "downloadURL": "https://ju-runner.github.io/gearbound-alt-adp/manifest.json",
+          "size": 96829957
+        }
+      ],
+      "appPermissions": {
+        "camera": "We need access to your camera to let you make a photo when needed.",
+        "microphone": "App may request microphone access when needed.",
+        "notifications": "Used to send game alerts.",
+        "tracking": "This ATT ID will be used to deliver personalized ads to you.",
+        "photos": "We need access to your photo library to let you choose a photo when needed."
+      }
+    }
+  ],
+  "news": []
+}
