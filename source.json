@@ -2,7 +2,7 @@
   "name": "AltStore Source",
   "apps": [
     {
-      "name": "Gearbound Strike",
+      "name": "Gearbound",
       "bundleIdentifier": "com.gear.bound",
       "marketplaceID": "6758010588",
       "developerName": "D & DRIM SRL",
