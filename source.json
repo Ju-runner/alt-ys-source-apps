@@ -27,7 +27,10 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "We need access to your camera to let you make a photo when needed.",
           "NSMicrophoneUsageDescription": "App may request microphone access when needed.",
