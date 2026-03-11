@@ -27,11 +27,13 @@
         }
       ],
       "appPermissions": {
-        "camera": "We need access to your camera to let you make a photo when needed.",
-        "microphone": "App may request microphone access when needed.",
-        "notifications": "Used to send game alerts.",
-        "tracking": "This ATT ID will be used to deliver personalized ads to you.",
-        "photos": "We need access to your photo library to let you choose a photo when needed."
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We need access to your camera to let you make a photo when needed.",
+          "NSMicrophoneUsageDescription": "App may request microphone access when needed.",
+          "NSUserTrackingUsageDescription": "This ATT ID will be used to deliver personalized ads to you.",
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to let you choose a photo when needed."
+        }
       }
     }
   ],
