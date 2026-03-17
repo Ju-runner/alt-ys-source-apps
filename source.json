@@ -1,5 +1,6 @@
 {
   "name": "AltStore Source",
+  "identifier": "com.ys.apps.source",
   "apps": [
     {
       "name": "Gearbound Strike",
